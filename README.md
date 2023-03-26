@@ -1,6 +1,6 @@
 # Projets-OpenClassrooms
 
-7 projets réalisés dans le cadre de la formation diplômante [Data Scientist d'OpenClassrooms](https://openclassrooms.com/fr/paths/164-data-scientist) en partenariat avec CentraSupélec
+7 projets réalisés dans le cadre de la formation diplômante [Data Scientist d'OpenClassrooms](https://openclassrooms.com/fr/paths/164-data-scientist) en partenariat avec CentraleSupélec
 
 ## Projet 2 - Analysez des données de systèmes éducatifs
 L'entreprise "academy" cherche à s'étendre à l'international. Dans ce premier projet, vosu ferez des recommandations stratégiques à partir de données de systèmes éducatifs
